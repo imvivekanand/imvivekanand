@@ -1,43 +1,30 @@
-### Hi there 👋, 👋, I'm Vivek Anand.
-#### A passionate MERN stack developer from India.
-![A passionate MERN stack developer from India.](https://github.com/imvivekanand/imvivekanand/blob/2974c63dc681ac7f9ed77feb89f12e50c4463e31/mern.jpg)
-
-I am an aspiring Full Stack Developer, especially a "MERN Stack Developer".
+# 💫 About Me:
+🔭 I’m currently working on "Various ReactJs Projects".<br>🌱 I’m currently learning ReactJs, NextJs<br>💬 Ask me about HTML, TailwindCSS, JavaScript, ReactJs<br>📫 How to reach me: https://iamvivekanand.netlify.app/
 
 
-As a seasoned Mechanical Engineer embarking on a transformative journey, I am fueled by a passion for innovation and a desire to blend the precision of engineering with the dynamic world of full-stack development. Currently, I’m learning the exciting realm of web development, my focus is on becoming a proficient MERN stack developer.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ivivekanand) 
 
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Affinity Photo](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=imvivekanand&theme=algolia&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=imvivekanand&theme=algolia&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=imvivekanand&theme=algolia&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-With a foundation rooted in mechanical engineering, I have a proven track record as a Workshop Manager at a Maruti Suzuki dealership. In this role, I honed my technical expertise while leading teams and streamlining workshop operations. This experience instilled in me the importance of efficiency, problem-solving, and effective project management.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=imvivekanand&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-Also, I contributed to the intricate world of engineering as an AutoCAD Draftsman under a contractor for Indian Oil. Here, attention to detail and precision were paramount, and I cultivated a keen eye for drafting complex designs.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=imvivekanand&limit=5&theme=algolia&combine_all_yearly_contributions=true)
 
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-Eager to expand my skill set and embrace the challenges of the digital landscape, I am currently immersing myself in the intricacies of full-stack web development. The MERN stack—MongoDB, Express.js, React.js, and Node.js — captivates me with its versatility and potential to create dynamic, user-centric applications.
+---
+[![](https://visitcount.itsvg.in/api?id=imvivekanand&icon=2&color=4)](https://visitcount.itsvg.in)
 
-
-By leveraging the skills acquired in diverse roles, I aim to contribute to innovative projects, bringing a unique perspective and a commitment to excellence.
-
-
-Embracing continuous learning, I am excited about the limitless possibilities that lie ahead in my journey from a mechanical engineer to a versatile and forward-thinking MERN stack developer.
-
-Skills: REACT / JS / HTML / CSS / TailwindCSS
-
-- 🔭 I’m currently working on "Various ReactJs Projects". 
-- 🌱 I’m currently learning ReactJs, NextJs 
-- 💬 Ask me about JavaScript, ReactJs 
-- 📫 How to reach me: https://iamvivekanand.netlify.app/ 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/imvivekanand)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/imvivekanand)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](iamvivekanand)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ivivekanand/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://iamvivekanand.netlify.app/)  
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=imvivekanand)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imvivekanand)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub metrics](https://metrics.lecoq.io/imvivekanand)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=imvivekanand)  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
