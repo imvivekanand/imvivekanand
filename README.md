@@ -1,31 +1,46 @@
-<h1 align="center">Hi 👋, I'm Vivek Anand.</h1>
-<h3 align="center">A passionate MERN stack developer from India.</h3>
+### Hi there 👋, I'm Vivek Anand.
+#### A passionate MERN stack developer from India.
+![A passionate MERN stack developer from India.](https://github.com/imvivekanand/imvivekanand/blob/2974c63dc681ac7f9ed77feb89f12e50c4463e31/mern.jpg)
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+I am an aspiring Full Stack Developer, especially a "MERN Stack Developer".
 
-- 🌱 I’m currently learning **ReactJs, MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://iamvivekanand.netlify.app/](https://iamvivekanand.netlify.app/)
+As a seasoned Mechanical Engineer embarking on a transformative journey, I am fueled by a passion for innovation and a desire to blend the precision of engineering with the dynamic world of full-stack development. Currently, I’m learning the exciting realm of web development, my focus is on becoming a proficient MERN stack developer.
 
-- 💬 Ask me about **HTML, CSS, JavaScript, ReactJs.**
 
-- 📫 How to reach me **vivekanand@onmail.com**
+With a foundation rooted in mechanical engineering, I have a proven track record as a Workshop Manager at a Maruti Suzuki dealership. In this role, I honed my technical expertise while leading teams and streamlining workshop operations. This experience instilled in me the importance of efficiency, problem-solving, and effective project management.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imvivekanand&label=Profile%20views&color=0e75b6&style=flat" alt="imvivekanand" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/imvivekanand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="imvivekanand" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ivivekanand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ivivekanand" height="30" width="40" /></a>
-</p>
+Also, I contributed to the intricate world of engineering as an AutoCAD Draftsman under a contractor for Indian Oil. Here, attention to detail and precision were paramount, and I cultivated a keen eye for drafting complex designs.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imvivekanand&show_icons=true&locale=en&layout=compact" alt="imvivekanand" /></p>
+Eager to expand my skill set and embrace the challenges of the digital landscape, I am currently immersing myself in the intricacies of full-stack web development. The MERN stack—MongoDB, Express.js, React.js, and Node.js — captivates me with its versatility and potential to create dynamic, user-centric applications.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imvivekanand&show_icons=true&locale=en" alt="imvivekanand" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imvivekanand&" alt="imvivekanand" /></p>
+By leveraging the skills acquired in diverse roles, I aim to contribute to innovative projects, bringing a unique perspective and a commitment to excellence.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imvivekanand" alt="imvivekanand" /></a> </p>
+
+Embracing continuous learning, I am excited about the limitless possibilities that lie ahead in my journey from a mechanical engineer to a versatile and forward-thinking MERN stack developer.
+
+Skills: REACT / JS / HTML / CSS / TailwindCSS
+
+- 🔭 I’m currently working on "Various ReactJs Projects". 
+- 🌱 I’m currently learning ReactJs, NextJs 
+- 💬 Ask me about JavaScript, ReactJs 
+- 📫 How to reach me: https://iamvivekanand.netlify.app/ 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/imvivekanand)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/imvivekanand)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](iamvivekanand)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ivivekanand/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://iamvivekanand.netlify.app/)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=imvivekanand)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imvivekanand)](https://github.com/anuraghazra/github-readme-stats)
+
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/imvivekanand/contributions?format=svg&private=false)  
+
+![GitHub metrics](https://metrics.lecoq.io/imvivekanand)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=imvivekanand)  
+
