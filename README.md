@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Vivek Anand.
+### Hi there 👋, 👋, I'm Vivek Anand.
 #### A passionate MERN stack developer from India.
 ![A passionate MERN stack developer from India.](https://github.com/imvivekanand/imvivekanand/blob/2974c63dc681ac7f9ed77feb89f12e50c4463e31/mern.jpg)
 
@@ -38,9 +38,6 @@ Skills: REACT / JS / HTML / CSS / TailwindCSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imvivekanand)](https://github.com/anuraghazra/github-readme-stats)
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/imvivekanand/contributions?format=svg&private=false)  
-
 ![GitHub metrics](https://metrics.lecoq.io/imvivekanand)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=imvivekanand)  
-
