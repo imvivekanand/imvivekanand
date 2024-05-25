@@ -4,7 +4,7 @@
 <h3 align="center">I am an aspiring Cybersecurity Analyst".</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on "Various Python Projects".<br>🌱 I’m currently learning Python, Penetration Testing<br>💬 Ask me about Python, Linux, Networks Security, SQL<br>📫 How to reach me: https://iamvivekanand.netlify.app/
+🔭 I’m currently working on "Various Python Projects".<br>🌱 I’m currently learning Python, Penetration Testing<br>💬 Ask me about Python, Linux, Networks Security, SQL<br>📫 How to reach me: vivekanand@onmail.com
 
 
 ## 🌐 Socials:
