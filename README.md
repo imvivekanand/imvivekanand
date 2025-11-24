@@ -37,17 +37,8 @@ I am a security professional transitioning from **Deep Packet Core Engineering**
 
 -----
 🛠️ The Arsenal (Tech Stack)
-<!-- OFFENSIVE TOOLS -->
 
-<h4 align="center">⚔️ Offensive (Red Team)</h4> <p align="center"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Kali_Linux-555555%3Fstyle%3Dfor-the-badge%26logo%3Dkali-linux%26logoColor%3Dwhite" alt="Kali" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Metasploit-333333%3Fstyle%3Dfor-the-badge%26logo%3Dmetasploit%26logoColor%3Dwhite" alt="Metasploit" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Burp_Suite-FF6633%3Fstyle%3Dfor-the-badge%26logo%3Dburpsuite%26logoColor%3Dwhite" alt="Burp Suite" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Nmap_Recon-1F222E%3Fstyle%3Dfor-the-badge%26logo%3Dhack-the-box%26logoColor%3Dwhite" alt="Nmap" /> </p>
-
-<!-- DEFENSIVE TOOLS -->
-
-<h4 align="center">🛡️ Defensive (Blue Team)</h4> <p align="center"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Splunk-000000%3Fstyle%3Dfor-the-badge%26logo%3Dsplunk%26logoColor%3Dwhite" alt="Splunk" /> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Snort_IDS-000000%3Fstyle%3Dfor-the-badge%26logo%3Dcisco%26logoColor%3Dred" alt="Snort" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Sysmon_Logging-0078D4%3Fstyle%3Dfor-the-badge%26logo%3Dwindows%26logoColor%3Dwhite" alt="Sysmon" /> </p>
-
-<!-- INFRASTRUCTURE -->
-
-<h4 align="center">💻 Infrastructure & Code</h4> <p align="center"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="Python" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/GNU_Bash-4EAA25%3Fstyle%3Dfor-the-badge%26logo%3Dgnu-bash%26logoColor%3Dwhite" alt="Bash" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" /> </p>
+<div align="center">⚔️ Offensive (Red Team)🛡️ Defensive (Blue Team)💻 Infrastructure & Code </div>
 
 -----
 
