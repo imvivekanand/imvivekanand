@@ -36,15 +36,11 @@ root@vivek:~$ whoami
 I am a security professional transitioning from **Deep Packet Core Engineering** (Nokia/Ericsson) to **Cybersecurity Operations**. Unlike standard analysts, I understand the network stack from the wire up—analyzing SIP, GTP, and TCP/IP flows to detect anomalies that firewalls miss. My background in maintaining critical telecom infrastructure has instilled a "zero-downtime" mindset, crucial for incident response and threat mitigation.
 
 -----
+🛠️ The Arsenal (Tech Stack)
 
-### 🛠️ **The Arsenal (Tech Stack)**
+<!-- HTML Table for Better Stability -->
 
-| **Offensive (Red Team)** | **Defensive (Blue Team)** | **Infrastructure & Code** |
-| :--- | :--- | :--- |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+<div align="center"> <table> <tr> <th align="center">⚔️ Offensive (Red Team)</th> <th align="center">🛡️ Defensive (Blue Team)</th> <th align="center">💻 Infrastructure & Code</th> </tr> <tr> <td align="center"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Kali_Linux-555555%3Fstyle%3Dflat-square%26logo%3Dkali-linux%26logoColor%3Dwhite" alt="Kali" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Metasploit-333333%3Fstyle%3Dflat-square%26logo%3Dmetasploit%26logoColor%3Dwhite" alt="Metasploit" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Burp_Suite-FF6633%3Fstyle%3Dflat-square%26logo%3Dburpsuite%26logoColor%3Dwhite" alt="Burp Suite" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Nmap-Recon-000000%3Fstyle%3Dflat-square%26logo%3Dhack-the-box%26logoColor%3Dwhite" alt="Nmap" /> </td> <td align="center"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Splunk-000000%3Fstyle%3Dflat-square%26logo%3Dsplunk%26logoColor%3Dwhite" alt="Splunk" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Wireshark-1679A7%3Fstyle%3Dflat-square%26logo%3Dwireshark%26logoColor%3Dwhite" alt="Wireshark" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Snort_IDS-000000%3Fstyle%3Dflat-square%26logo%3Dcisco%26logoColor%3Dred" alt="Snort" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Sysmon-Logging-0078D4%3Fstyle%3Dflat-square%26logo%3Dwindows%26logoColor%3Dwhite" alt="Sysmon" /> </td> <td align="center"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Linux-FCC624%3Fstyle%3Dflat-square%26logo%3Dlinux%26logoColor%3Dblack" alt="Linux" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dflat-square%26logo%3Dpython%26logoColor%3Dwhite" alt="Python" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/GNU_Bash-4EAA25%3Fstyle%3Dflat-square%26logo%3Dgnu-bash%26logoColor%3Dwhite" alt="Bash" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/MySQL-4479A1%3Fstyle%3Dflat-square%26logo%3Dmysql%26logoColor%3Dwhite" alt="SQL" /> </td> </tr> </table> </div>
 
 -----
 
