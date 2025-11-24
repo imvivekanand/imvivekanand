@@ -1,35 +1,138 @@
-<p align="center"> <img src="https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966"/> </p>
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Vivek Anand</h1>
-<h3 align="center">I am an Cybersecurity Aspirant".</h3>
+<!-- Animated Header -->
 
-# 💫 About Me:
-🔭 I’m currently working on "Various Python Projects".<br>🌱 I’m currently learning Python, Penetration Testing<br>💬 Ask me about Python, Linux, Networks Security, SQL<br>📫 How to reach me: vivekanand@onmail.com
+<a href="https://git.io/typing-svg">
+<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DJetBrains%2BMono%26weight%3D700%26size%3D30%26duration%3D3000%26pause%3D1000%26color%3D00FF41%26center%3Dtrue%26vCenter%3Dtrue%26width%3D500%26lines%3DNetwork%2BSecurity%2BEngineer%3BEthical%2BHacker%3BSOC%2BAnalyst%3BCEH%2BAspirant" alt="Typing SVG" />
+</a>
+
+<p align="center">
+<a href="https://vivekanandceh.netlify.app/">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/PORTFOLIO-LIVE_SITE-00ff41%3Fstyle%3Dfor-the-badge%26logo%3Dgoogle-chrome%26logoColor%3Dblack%26labelColor%3D101010" alt="Portfolio" />
+</a>
+<a href="https://www.linkedin.com/in/ivivekanand/">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite%26labelColor%3D101010" alt="LinkedIn" />
+</a>
+<a href="mailto:vivekanandcys@gmail.com">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/EMAIL-CONTACT_ME-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite%26labelColor%3D101010" alt="Email" />
+</a>
+</p>
+
+</div>
+
+<img src="https://www.google.com/search?q=https://media.giphy.com/media/iY8CRBdQXODJSCerVq/giphy.gif" width="30">  System_Initialized: User Profile
+
+root@vivek:~$ whoami
+> Name: Vivek Anand
+> Role: Network Security Engineer & Ethical Hacker
+> Base: Bihar, India
+> Focus: Bridging Telecom Infrastructure (IMS/VoLTE) with Offensive Security.
+> Status: Preparing for CEH (Certified Ethical Hacker)
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ivivekanand) 
+I am a security professional transitioning from Deep Packet Core Engineering (Nokia/Ericsson) to Cybersecurity Operations. Unlike standard analysts, I understand the network stack from the wire up—analyzing SIP, GTP, and TCP/IP flows to detect anomalies that firewalls miss. My background in maintaining critical telecom infrastructure has instilled a "zero-downtime" mindset, crucial for incident response and threat mitigation.
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Affinity Photo](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=imvivekanand&theme=algolia&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=imvivekanand&theme=algolia&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=imvivekanand&theme=algolia&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<img src="https://www.google.com/search?q=https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> The Arsenal (Tech Stack)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=imvivekanand&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
+Offensive (Red Team)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+Defensive (Blue Team)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=imvivekanand&limit=5&theme=algolia&combine_all_yearly_contributions=true)
+Infrastructure & Code
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=imvivekanand&icon=2&color=4)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="https://www.google.com/search?q=https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="30"> Experience Log (Mission History)
+
+📡 Mission 1: Securing the Voice Layer (IMS Core)
+
+Role: IMS Engineer (NetSec) | Org: Nokia | July 2025 - Present
+
+Operating at the heart of the telecom network, I manage the IP Multimedia Subsystem (IMS) that powers VoLTE and VoNR. My role goes beyond maintenance; it involves deep inspection of signaling traffic to ensure integrity and availability.
+
+Signaling Analysis: Utilizing Wireshark to dissect SIP packets, identifying malformed headers or flooding attempts that indicate Denial of Service (DoS) attacks or toll fraud.
+
+Infrastructure Hardening: Configuring and auditing CSCF (Call Session Control Function) nodes and MGCF (Media Gateway Control Function) to prevent unauthorized access and ensure strictly regulated call flows.
+
+Incident Response: Monitoring live network KPIs to detect service degradation anomalies, rapidly isolating root causes across the IP transport layer.
+
+Protocols Secured: SIP, VoLTE, RTP, Diameter
+
+🛡️ Mission 2: Defending the Data Plane (Packet Core)
+
+Role: Packet Core Engineer | Org: Ericsson | Sept 2024 - June 2025
+
+Managed the Evolved Packet Core (EPC), the critical data pipe for mobile networks. This role provided a masterclass in tunneling protocols and network segmentation.
+
+Tunnel Security: Deep analysis of GTP (GPRS Tunneling Protocol) traffic, ensuring the separation of Control Plane (GTP-C) and User Plane (GTP-U) to prevent lateral movement and tunnel hijacking attacks.
+
+Node Configuration: Configured security parameters on MME (Mobility Management Entity), SGW (Serving Gateway), and PGW (Packet Gateway) to enforce strict user authentication and data routing policies.
+
+Forensic Troubleshooting: Traced complex connectivity issues across the core network, effectively "hunting" for misconfigurations or protocol errors that mimic security breaches.
+
+Protocols Secured: GTP-C/U, TCP/IP, SCTP, DNS
+
+📱 Mission 3: Application Security & Leadership
+
+Role: Co-Founder & Tech Lead | Org: Jeevandayak | Nov 2020 - Aug 2024
+
+Led the technical development of a consumer-facing Android application, focusing on the Software Development Life Cycle (SDLC) and data privacy.
+
+Secure Development: Implemented logic to prevent data leakage and ensured secure handling of User PII (Personally Identifiable Information) within the SQL database.
+
+Vulnerability Remediation: Identified and patched application logic bugs that could lead to service disruption or unauthorized data access.
+
+Access Control: Designed secure authentication flows to verify user identities and manage session integrity.
+
+Tech Stack: Android, Java, SQL, AppSec
+
+<img src="https://www.google.com/search?q=https://media.giphy.com/media/LmqPAwzeY9Tqd7d1o6/giphy.gif" width="30"> Active Mission: CEH Certification
+
+<div align="left">
+
+Current Status: [▓▓▓▓▓▓▓▓▓░] 90%
+
+Focus Area: System Hacking & Sniffing Vectors
+
+</div>
+
+<br />
+
+<img src="https://www.google.com/search?q=https://media.giphy.com/media/du3J3cXyzhj75Bj71l/giphy.gif" width="30"> GitHub Analytics
+
+<div align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dimvivekanand%26show_icons%3Dtrue%26theme%3Ddark%26hide_border%3Dtrue%26title_color%3D00ff41%26icon_color%3D00ff41%26text_color%3Dc9d1d9%26bg_color%3D0d1117" alt="Vivek's GitHub Stats" />
+
+
+
+
+
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dimvivekanand%26layout%3Dcompact%26theme%3Ddark%26hide_border%3Dtrue%26title_color%3D00ff41%26text_color%3Dc9d1d9%26bg_color%3D0d1117" alt="Top Languages" />
+</div>
+
+<div align="center">
+<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D00ff41%26height%3D100%26section%3Dfooter" width="100%"/>
+<p style="font-family: monospace;">"Security is not a product, but a process."</p>
+</div>
