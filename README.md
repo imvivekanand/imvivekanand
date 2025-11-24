@@ -106,19 +106,12 @@ Led the technical development of a consumer-facing Android application, focusing
 -----
 
 📊 GitHub Analytics
-<!-- Fixed Stats URLs -->
-
 <div align="center"> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dimvivekanand%26show_icons%3Dtrue%26theme%3Ddark%26hide_border%3Dtrue%26title_color%3D00ff41%26icon_color%3D00ff41%26text_color%3Dc9d1d9%26bg_color%3D0d1117" alt="GitHub Stats" />
 
 
 <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dimvivekanand%26layout%3Dcompact%26theme%3Ddark%26hide_border%3Dtrue%26title_color%3D00ff41%26text_color%3Dc9d1d9%26bg_color%3D0d1117" alt="Top Languages" /> </div>
 
------
-
-\<div align="center"\>
-\<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D00ff41%26height%3D100%26section%3Dfooter" width="100%"/\>
-\<p style="font-family: monospace;"\>"Security is not a product, but a process."\</p\>
-\</div\>
+<div align="center"> <img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D00ff41%26height%3D100%26section%3Dfooter" width="100%"/> <p style="font-family: monospace;">"Security is not a product, but a process."</p> </div>
 
 ```
 ```
