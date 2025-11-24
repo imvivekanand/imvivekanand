@@ -37,10 +37,9 @@ I am a security professional transitioning from **Deep Packet Core Engineering**
 
 -----
 🛠️ The Arsenal (Tech Stack)
+<!-- HTML Table for Better Stability with Verified Logos -->
 
-<!-- HTML Table for Better Stability -->
-
-<div align="center"> <table> <tr> <th align="center">⚔️ Offensive (Red Team)</th> <th align="center">🛡️ Defensive (Blue Team)</th> <th align="center">💻 Infrastructure & Code</th> </tr> <tr> <td align="center"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Kali_Linux-555555%3Fstyle%3Dflat-square%26logo%3Dkali-linux%26logoColor%3Dwhite" alt="Kali" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Metasploit-333333%3Fstyle%3Dflat-square%26logo%3Dmetasploit%26logoColor%3Dwhite" alt="Metasploit" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Burp_Suite-FF6633%3Fstyle%3Dflat-square%26logo%3Dburpsuite%26logoColor%3Dwhite" alt="Burp Suite" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Nmap-Recon-000000%3Fstyle%3Dflat-square%26logo%3Dhack-the-box%26logoColor%3Dwhite" alt="Nmap" /> </td> <td align="center"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Splunk-000000%3Fstyle%3Dflat-square%26logo%3Dsplunk%26logoColor%3Dwhite" alt="Splunk" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Wireshark-1679A7%3Fstyle%3Dflat-square%26logo%3Dwireshark%26logoColor%3Dwhite" alt="Wireshark" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Snort_IDS-000000%3Fstyle%3Dflat-square%26logo%3Dcisco%26logoColor%3Dred" alt="Snort" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Sysmon-Logging-0078D4%3Fstyle%3Dflat-square%26logo%3Dwindows%26logoColor%3Dwhite" alt="Sysmon" /> </td> <td align="center"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Linux-FCC624%3Fstyle%3Dflat-square%26logo%3Dlinux%26logoColor%3Dblack" alt="Linux" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dflat-square%26logo%3Dpython%26logoColor%3Dwhite" alt="Python" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/GNU_Bash-4EAA25%3Fstyle%3Dflat-square%26logo%3Dgnu-bash%26logoColor%3Dwhite" alt="Bash" /> <img src="https://www.google.com/search?q=https://img.shields.io/badge/MySQL-4479A1%3Fstyle%3Dflat-square%26logo%3Dmysql%26logoColor%3Dwhite" alt="SQL" /> </td> </tr> </table> </div>
+<div align="center"> <table> <tr> <th align="center">⚔️ Offensive (Red Team)</th> <th align="center">🛡️ Defensive (Blue Team)</th> <th align="center">💻 Infrastructure & Code</th> </tr> <tr> <td align="center"> <!-- Kali --> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Kali_Linux-555555%3Fstyle%3Dflat-square%26logo%3Dkali-linux%26logoColor%3Dwhite" alt="Kali" /> <!-- Metasploit (Using generic fallback if specific logo fails) --> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Metasploit-333333%3Fstyle%3Dflat-square%26logo%3Dmetasploit%26logoColor%3Dwhite" alt="Metasploit" /> <!-- Burp Suite --> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Burp_Suite-FF6633%3Fstyle%3Dflat-square%26logo%3Dburpsuite%26logoColor%3Dwhite" alt="Burp Suite" /> <!-- Recon/Nmap (Using HackTheBox icon as Nmap has no official simple-icon) --> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Nmap_Recon-1F222E%3Fstyle%3Dflat-square%26logo%3Dhack-the-box%26logoColor%3Dwhite" alt="Nmap" /> </td> <td align="center"> <!-- Splunk --> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Splunk-000000%3Fstyle%3Dflat-square%26logo%3Dsplunk%26logoColor%3Dwhite" alt="Splunk" /> <!-- Wireshark --> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Wireshark-1679A7%3Fstyle%3Dflat-square%26logo%3Dwireshark%26logoColor%3Dwhite" alt="Wireshark" /> <!-- Snort (Using Cisco icon as it is Cisco owned) --> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Snort_IDS-000000%3Fstyle%3Dflat-square%26logo%3Dcisco%26logoColor%3Dred" alt="Snort" /> <!-- Sysmon (Using Windows icon) --> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Sysmon_Logging-0078D4%3Fstyle%3Dflat-square%26logo%3Dwindows%26logoColor%3Dwhite" alt="Sysmon" /> </td> <td align="center"> <!-- Linux --> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Linux-FCC624%3Fstyle%3Dflat-square%26logo%3Dlinux%26logoColor%3Dblack" alt="Linux" /> <!-- Python --> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dflat-square%26logo%3Dpython%26logoColor%3Dwhite" alt="Python" /> <!-- Bash --> <img src="https://www.google.com/search?q=https://img.shields.io/badge/GNU_Bash-4EAA25%3Fstyle%3Dflat-square%26logo%3Dgnu-bash%26logoColor%3Dwhite" alt="Bash" /> <!-- MySQL --> <img src="https://www.google.com/search?q=https://img.shields.io/badge/MySQL-4479A1%3Fstyle%3Dflat-square%26logo%3Dmysql%26logoColor%3Dwhite" alt="SQL" /> </td> </tr> </table> </div>
 
 -----
 
@@ -98,13 +97,13 @@ Led the technical development of a consumer-facing Android application, focusing
 
 -----
 
-### 📊 **GitHub Analytics**
+📊 GitHub Analytics
+<!-- Fixed Stats URLs -->
 
-\<div align="center"\>
-\<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dimvivekanand%26show\_icons%3Dtrue%26theme%3Ddark%26hide\_border%3Dtrue%26title\_color%3D00ff41%26icon\_color%3D00ff41%26text\_color%3Dc9d1d9%26bg\_color%3D0d1117" alt="Vivek's GitHub Stats" /\>
-<br>
-\<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dimvivekanand%26layout%3Dcompact%26theme%3Ddark%26hide\_border%3Dtrue%26title\_color%3D00ff41%26text\_color%3Dc9d1d9%26bg\_color%3D0d1117" alt="Top Languages" /\>
-\</div\>
+<div align="center"> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dimvivekanand%26show_icons%3Dtrue%26theme%3Ddark%26hide_border%3Dtrue%26title_color%3D00ff41%26icon_color%3D00ff41%26text_color%3Dc9d1d9%26bg_color%3D0d1117" alt="GitHub Stats" />
+
+
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dimvivekanand%26layout%3Dcompact%26theme%3Ddark%26hide_border%3Dtrue%26title_color%3D00ff41%26text_color%3Dc9d1d9%26bg_color%3D0d1117" alt="Top Languages" /> </div>
 
 -----
 
